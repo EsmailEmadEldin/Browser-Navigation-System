@@ -104,8 +104,4 @@ https://www.stackoverflow.com
 - **String Tokenization** — using `strtok` to parse space-separated commands
 - **Browser Navigation Logic** — mirroring real back/forward history behavior
 
----
-
-## 👤 Author
-
-**Esmail Emad El-Din**  
+ 
